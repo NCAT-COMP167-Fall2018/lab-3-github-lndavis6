@@ -16,7 +16,7 @@ import java.util.Scanner;
 public class PersonalTwitterFeed {
 
     private static final int MAX_NUMBER_TWEETS = 200;
-    private static String Scanner keyboard;
+    private static Scanner keyboard;
     private static String tweeterName;
     
     /**
